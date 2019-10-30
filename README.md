@@ -28,9 +28,10 @@ Here are the projects I've worked on in my courses at Michigan.
 This project was one of the most challenging projects I have worked on, and not only because of the technical difficulty. My team and I started this course with a completely different project, but our project sponsor had legal issues that affected our work, so we had to cancel the project after 1 month of working on it. Since then, our team pivoted to build a bidirectional inverted pendulum game.
 
 The focus of my work was simulation, control, and software development. In MATLAB, I fully simulated and LQR and PID control system, with options for balancing a pendulum or not.
+
 ![GIF of simulator](https://github.com/arnavjoshi1/arnavjoshi1.github.io/blob/master/img/PID_sim.gif)
 
-After the simulator was validated, I helped assemble and wire all the electronic components for our final assembly. Then, I coded our controller using C++ on an Arduino microcontroller.
+After the controller was validated, I helped assemble and wire all the electronic components for our final assembly. Then, I coded our controller using C++ on an Arduino microcontroller.
 [Pic of circuit and motor mounted here]
 
 ### Ball Catch-and-Sort (ME 350)
