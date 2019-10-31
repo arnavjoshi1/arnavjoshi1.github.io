@@ -8,15 +8,14 @@ Hello welcome to my portfolio! My name is Arnav Joshi and I am a graduating seni
 - About Me
 - School Projects
 	- Bidirectional Inverted Pendulum (ME 450)
-	- Robotic Game Player (ME 250)
 	- Ball Catcher and Sorter (ME 350)
+	- Robotic Game Player (ME 250)
 - Work Projects
 	- Ford RTD Implementation
 - Research Projects
 	- Platooning
 	- LTV Dynamic Watermarking
 	- LTI Dynamic Watermarking
-	
 - Other
 	- Light Show
 
